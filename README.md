@@ -19,4 +19,4 @@
 Вариант
 ![image](https://github.com/tafoiji/Cauchy_problem_mehtods/assets/126417382/1700b6df-fe35-4a4e-b64f-eaed96f4f9d0)
 
-## [Ссылка на отчет]()
+## [Ссылка на отчет](report.docx)
